@@ -3471,7 +3471,7 @@ input, select, textarea {
 			display: inline-block;
 			height: 100vh;
 			vertical-align: middle;
-			width: 1%;
+			width: 100%;
 		}
 
 		#banner:after {
