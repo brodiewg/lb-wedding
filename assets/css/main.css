@@ -3458,7 +3458,7 @@ input, select, textarea {
 		background-color: #272833;
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
-		background-size: cover;
+		background-size: 100% auto;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
 		min-height: 100vh;
 		position: relative;
@@ -3471,7 +3471,7 @@ input, select, textarea {
 			display: inline-block;
 			height: 100vh;
 			vertical-align: middle;
-			width: 100%;
+			width: 1%;
 		}
 
 		#banner:after {
