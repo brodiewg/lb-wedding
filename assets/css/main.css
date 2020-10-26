@@ -3948,7 +3948,7 @@ input, select, textarea {
 						top: 0;
 						width: 54px;
 					}
-
+/* 
 			#navPanel {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
@@ -4042,7 +4042,7 @@ input, select, textarea {
 				-ms-transform: translateX(0);
 				transform: translateX(0);
 			}
-
+*/
 		/* Footer */
 
 			#footer {
